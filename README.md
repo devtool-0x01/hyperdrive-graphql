@@ -49,7 +49,3 @@ A `schema.graphql` file will also be automatically generated and updated as muta
 
 - Add authentication for mutations.
 - Add validation
-
-## Author
-
-[Gagan Singh](https://github.com/devtool-0x01)
